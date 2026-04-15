@@ -2,6 +2,9 @@
 
 This repository contains artifacts for a penetration testing exercise performed against **Damn Vulnerable Web Application (DVWA)** running on an **unmodified Metasploitable 2** VM.
 
+## Author
+- Markus Stamm
+
 ## Scope / Ethics
 
 - Target: Metasploitable 2 VM hosting DVWA
