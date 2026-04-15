@@ -5,6 +5,10 @@ This repository contains artifacts for a penetration testing exercise performed 
 ## Author
 - Markus Stamm
 
+## Educational Use Only
+
+This project documents a controlled lab exercise only. Do not apply these techniques to systems you do not own or do not have explicit permission to test.
+
 ## Scope / Ethics
 
 - Target: Metasploitable 2 VM hosting DVWA
